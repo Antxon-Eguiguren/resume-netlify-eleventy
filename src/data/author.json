@@ -1,44 +1,46 @@
 {
-    "name": "Anna Quincey",
-    "occupation": "Front-End Developer",
-    "location": "Vienna, AT",
+    "name": "Antxon Eguiguren",
+    "occupation": "Junior Full Stack Developer",
+    "location": "Madrid, Spain",
     "avatar": "avatar.jpg",
-    "pronouns": "she/her",
-    "email": "anna.quincey@gmail.com",
-    "telephone": "+01 23 456 789",
-    "website": "https://annaquincey.dev",
+    "email": "antxonegi@gmail.com",
+    "telephone": "+34 618 888 703",
     "skills": [
+        "Javascript / ES6",
+        "TypeScript",
+        "Angular 9",
+        "React (in progress)",
+        "NodeJS",
+        "Express",
+        "MySQL",
+        "MongoDB",
         "HTML",
         "CSS",
-        "Javascript / ES6",
-        "UI Design",
-        "React",
-        "Git"
+        "Bootstrap",
+        "Google Ads",
+        "Google Analytics",
+        "WordPress"
     ],
     "languages": [
         {
-            "name": "English",
+            "name": "Spanish",
             "level": "native"
         },
         {
-            "name": "German",
+            "name": "English",
             "level": "fluent"
-        },
-        {
-            "name": "French",
-            "level": "basic"
         }
     ],
     "social": [
         {
             "name": "Github",
-            "user": "@annaquincey",
-            "url": "https://github.com/annaquincey"
+            "user": "@Antxon-Eguiguren",
+            "url": "https://github.com/Antxon-Eguiguren"
         },
         {
             "name": "LinkedIn",
-            "user": "AnnaQncy",
-            "url": "https://www.linkedin.com/in/annaquincey"
+            "user": "@antxon-eguiguren",
+            "url": "https://www.linkedin.com/in/antxon-eguiguren/"
         }
     ]
 }

@@ -5,4 +5,4 @@ location: Madrid, ES
 start: 2020-03-01
 ---
 
-Bootcamp final project consisting of a supplier management platform, developed with Angular 9, NodeJS, Express and MySQL.
+Project consisting of a supplier management platform, developed with Angular 9, NodeJS, Express and MySQL.

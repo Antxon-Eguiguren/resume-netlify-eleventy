@@ -9,7 +9,7 @@
         "Javascript / ES6",
         "TypeScript",
         "Angular 9",
-        "React (in progress)",
+        "React",
         "NodeJS",
         "Express",
         "MySQL",
@@ -24,11 +24,11 @@
     "languages": [
         {
             "name": "Spanish",
-            "level": "native"
+            "level": "Native"
         },
         {
             "name": "English",
-            "level": "fluent"
+            "level": "Fluent"
         }
     ],
     "social": [

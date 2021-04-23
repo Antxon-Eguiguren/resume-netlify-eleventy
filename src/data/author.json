@@ -1,6 +1,6 @@
 {
     "name": "Antxon Eguiguren",
-    "occupation": "Junior Full Stack Developer",
+    "occupation": "Full Stack Developer",
     "location": "Madrid, Spain",
     "avatar": "avatar.jpg",
     "email": "antxonegi@gmail.com",
@@ -8,7 +8,8 @@
     "skills": [
         "Javascript / ES6",
         "TypeScript",
-        "Angular 9",
+        "Angular",
+        "Ionic",
         "React",
         "NodeJS",
         "Express",
